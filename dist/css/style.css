@@ -1,0 +1,16 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+ 
+.hero{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0,0,0,0.12)), url('../../assets/images/image13.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width:100%;
+	height:100vh;
+}
+
+ul{
+	list-style-type: none;
+}
